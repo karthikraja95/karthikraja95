@@ -37,7 +37,7 @@
 [<img align="left" alt="cuda" width="26px" src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" />][projects]
 [<img align="left" alt="numpy" width="40px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />][projects]
 [<img align="left" alt="pandas" width="40px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />][projects]
-[<img align="left" alt="matplotlib" width="40px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />][projects]
+
 
 <br />
 <br />
