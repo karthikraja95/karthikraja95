@@ -35,9 +35,9 @@
 [<img align="left" alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][projects]
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][projects]
 [<img align="left" alt="cuda" width="26px" src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" />][projects]
-[<img align="left" alt="numpy" width="60px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />][projects]
-[<img align="left" alt="pandas" width="60px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />][projects]
-[<img align="left" alt="matplotlib" width="60px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />][projects]
+[<img align="left" alt="numpy" width="40px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />][projects]
+[<img align="left" alt="pandas" width="40px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />][projects]
+[<img align="left" alt="matplotlib" width="40px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />][projects]
 
 <br />
 <br />
