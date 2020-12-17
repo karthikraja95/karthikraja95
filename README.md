@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, This is [Karthik](https://www.kbhaskar.com/)
 
-<!--
-**karthikraja95/karthikraja95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working as a **Student Researcher** in [WangLab](https://wanglab.ml/) at [Vector Institute](https://vectorinstitute.ai/)
+- 🌱 I love AI and I hope one day we will build AGI
+- 👯 I’m always looking to collaborate on opensource AI projects with fellow AI enthusiasts
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything?
+- ⚡ Fun fact: I love to travel the world and take beautiful pictures. I play BasketBall regularly
+
+### Wanna Reach Out to Me???
+
+[<img align="left" alt="kbhaskar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="~kbhaskar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="karthikrajabk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
