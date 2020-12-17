@@ -6,7 +6,7 @@
 - 👯 I’m always looking to collaborate on opensource AI projects with fellow AI enthusiasts
 - 🤔 I’m looking for amazing people to start a next Billion Dollar Company
 - 💬 Ask me about Anything?
-- ⚡ Fun fact: I love to Travel the World and take Beautiful Pictures! Take a look at my Instagram 
+- ⚡ Fun fact: I love to Travel the World and take Beautiful Pictures! Take a look at my :point_right: Instagram 
 
 ### Wanna Reach Out to Me???
 
