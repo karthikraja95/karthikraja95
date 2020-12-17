@@ -35,6 +35,7 @@
 [<img align="left" alt="opencv" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />][projects]
 [<img align="left" alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />][projects]
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][projects]
+[<img align="left" alt="CUDA" width="26px" src="https://github.com/valohai/ml-logos/blob/master/cuda.svg />] [projects]
 
 <br />
 <br />
@@ -43,8 +44,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karthikraja95&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
+<!--
+To Show the Top Programming Languages in your Github Repo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikraja95)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 [website]: https://www.kbhaskar.com/
 [instagram]: https://www.instagram.com/my.artsy_lens/
