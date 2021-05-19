@@ -3,7 +3,7 @@
 
 - 🔭 Currently working as a End to End Data Scientist/ Machine Learning Engineer and eagerly learning **MLOps**, its so fascinating!!!
 - ⚡ Previously worked as a **Maching Learning Researcher** in [WangLab](https://wanglab.ml/) at [Vector Institute](https://vectorinstitute.ai/). I obtained my **M.Sc** from [University of Toronto](https://www.utoronto.ca/)
-- 🌱 I love **AI** and I hope one day we will build **AGI** :alien:
+- 🌱 I love **AI** and I hope one day we will build **AGI** or **HLI** :alien:
 - 👯 I’m always looking to collaborate on opensource AI projects with fellow AI enthusiasts :computer:
 - 🤔 I’m looking for amazing people to start a next Billion Dollar Company :moneybag:
 - 💬 Ask me about Anything? :sunglasses:
