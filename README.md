@@ -48,10 +48,10 @@
 
 
 
-
+<!--
 To Show the Top Programming Languages in your Github Repo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikraja95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 [website]: https://www.kbhaskar.com/
 [instagram]: https://www.instagram.com/my.artsy_lens/
